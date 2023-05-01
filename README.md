@@ -17,11 +17,11 @@ The project makes use of the Kaggle false News Dataset, which is made up of over
  
 
 ## Installation:
- 1. Git clone `https://github.com/username>/Fake-News-Detection.git` to copy the repository.
+ 1. Git clone `https://github.com/pritipaul/Fake-News-Detection.git` to copy the repository.
  
 
 ## Usage :
- 1. Open `fake_news_detection.ipynb` in Jupyter Notebook or any other Python environment.
+ 1. Open `fake_news_ detection.ipynb` in Jupyter Notebook or any other Python environment.
  2. To prepare the data, extract features, train the model, and assess its effectiveness, according to the notebook's instructions.
  3. To predict the labels of new articles, you may also utilise the pre-trained model fake_news_model.pkl.
 
